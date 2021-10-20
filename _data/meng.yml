@@ -54,7 +54,7 @@ music_player:
   music:
     - title: 'Faded'
       author: 'Alan Walker'
-      url: 'http://music.163.com/song/media/outer/url?id=534064298.mp3'
+      url: ''
       pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
     - title: 'Unity'
       author: 'TheFatRat'
