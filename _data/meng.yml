@@ -52,9 +52,9 @@ music_player:
   player: "aplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    - title: 'Faded'
-      author: 'Alan Walker'
-      url: ''
+    - title: 'lover'
+      author: 'Taylor Swift'
+      url: 'http://www.shiyinren.com/kw/antiserver.kuwo.cn/anti.s?'
       pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
     - title: 'Unity'
       author: 'TheFatRat'

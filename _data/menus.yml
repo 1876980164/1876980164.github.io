@@ -1,20 +1,20 @@
 - name: 家
   url: /
   icon: home
-- name: CATEGORY
+- name: 类别
   url: /category/
   icon: "&#xe53b;"
-- name: TAGS
+- name: 标签
   url: /tags/
   icon: "&#xe893;"
-- name: LOVER
+- name: 女主人
   url: /love/
   icon: "&#xe87d;"
   color: "red"
-- name: FRIENDS
+- name: 朋友
   url: /friends/
   icon: "&#xe8a3;"
-- name: EDITOR
+- name: 编辑
   url: /editor/
   icon: "&#xe150;"
 - name: navSearch
