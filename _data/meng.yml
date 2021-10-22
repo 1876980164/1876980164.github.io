@@ -66,6 +66,17 @@ music_player:
       author: '高橋洋子 (たかはし ようこ)'
       url: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/%E9%AB%98%E6%A9%8B%E6%B4%8B%E5%AD%90%20%28%E3%81%9F%E3%81%8B%E3%81%AF%E3%81%97%20%E3%82%88%E3%81%86%E3%81%93%29%20-%20%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC%20%28Cruel%20Angel%27s%20Thesis%29%20%28Ambivalence%20Mix%29.mp3'
       pic: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/%25%25S%7BI%254%28%24%29W%253C37_UB2MT0.png'
+
+    - title: 'Sincerely'
+      author: 'TRUE (唐沢美帆)'
+      url: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/TRUE%20%28%E5%94%90%E6%B2%A2%E7%BE%8E%E5%B8%86%29%20-%20Sincerely.mp3'
+      pic: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/7ER%25YUWE8ODB%7DS%25P_%5BNM4HT.png'
+
+    - title: '虹の彼方に'
+      author: 'ReoNa'
+      url: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/ReoNa%20-%20%E8%99%B9%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AB.mp3'
+      pic: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/S%7B5LP%285%5BTNL%40DS6WR%5DT%7D0LO.png'
+    
     
 head_card:
   switch: true
