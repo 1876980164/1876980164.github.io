@@ -52,15 +52,11 @@ music_player:
   player: "cplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    - title: 'lover'
-      author: 'Taylor Swift'
-      url: 'http://www.shiyinren.com/kw/antiserver.kuwo.cn/anti.s?'
-      pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
-    - title: 'Unity'
-      author: 'TheFatRat'
-      url: 'http://www.170mv.com/kw/other.web.ri01.sycdn.kuwo.cn/resource/n2/44/7/1205252665.mp3'
-      pic: 'http://img4.kuwo.cn/star/starheads/240/72/35/3484765923.jpg'
-
+    - title: '路标（みちしるべ）'
+      author: '茅原实里 (ちはらみのり)'
+      url: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/%E8%8C%85%E5%8E%9F%E5%AE%9E%E9%87%8C%20%28%E3%81%A1%E3%81%AF%E3%82%89%E3%81%BF%E3%81%AE%E3%82%8A%29%20-%20%E3%81%BF%E3%81%A1%E3%81%97%E3%82%8B%E3%81%B9%20%28%E8%B7%AF%E6%A0%87%29.mp3'
+      pic: 'https://fourvimagebad.oss-cn-beijing.aliyuncs.com/lubiaogequ.png'
+    
 head_card:
   switch: true
   left_img: "https://ooo.0o0.ooo/2017/06/19/5947b272d418b.jpg"
