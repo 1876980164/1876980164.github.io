@@ -14,7 +14,7 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img:
-   avatar: "https://fourvimagebad.oss-cn-beijing.aliyuncs.com/tubiao.png" # your avatar
+   avatar: "https://gitee.com/fourv/imagebad/raw/master/ZifxoWagrRjJ.png" # your avatar
 
 card:
    card_shadow: 1 # card shadow (0-24), 0 is not displayed
